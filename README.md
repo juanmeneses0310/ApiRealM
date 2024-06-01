@@ -85,5 +85,8 @@ Morgan
 npm i morgan -D
 ```
 
+> [!IMPORTANT]
+>
+> Siempre lleva un orden en el proyecto, pon atención a los errores y siempre peinsa que se puede.
+
 Espero les sea de utilidad y cualquier pregunta o duda pueden contactarme a través de mi Discord juandavid0516.
-:copyright:
