@@ -4,13 +4,12 @@
 
 ## Proyecto BackEnd
 
-Este proyecto fue creado como proyecto de práctica para BackEnd, la finalidad es crear una base de datos en MongoDB Atlas donde guardaremos información sobre un tema libre, en este caso yo escogí el TOP 10 Goleadores historicos del Real Madrid, teniendo en cuenta que la idea es ampliar y poder seguir agregando no unicamente jugadores del Real Madrid, sino de los mejores clubes de todo el mundo. ¡Espero les sea de utilidad!
+Este proyecto fue creado comos práctica para BackEnd, la finalidad es crear una base de datos en MongoDB Atlas donde guardaremos información sobre un tema libre, en este caso yo escogí el TOP 10 Goleadores historicos del Real Madrid, teniendo en cuenta que la idea es ampliar y poder seguir agregando no unicamente jugadores del Real Madrid, sino de los mejores clubes de todo el mundo. ¡Espero les sea de utilidad!
 
 ### Tecnologías usadas
 
 - JavaScript
 - NodeJs
-- Express
 - MongoDB
 
 ### Les dejo el paso a paso usado para la creación de este proyecto que les servirá para poderlo replicar.
