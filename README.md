@@ -84,3 +84,6 @@ Morgan
 ```
 npm i morgan -D
 ```
+
+Espero les sea de utilidad y cualquier pregunta o duda pueden contactarme a través de mi Discord juandavid0516.
+:copyright:
